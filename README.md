@@ -8,3 +8,12 @@
     were:
     
         Bitcoin; DogeCoin; Tether; Etherium; XRP 
+
+
+
+# Github Management
+
+ For this segment of the project, I was in charge of maintaining and organizing the github as well as assiting the group with 
+ any questions or issues that could arise when commiting the files. Our communication as a group relies on using Slack as 
+ a resource in oder to have on consise area where we can post and keep track of our progress. 
+  
