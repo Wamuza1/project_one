@@ -7,7 +7,7 @@
  have the information to understand its value. The question we hope to answer is to see which currency would be the best value for a customer. The 5 we choose
  were:
     
-        Bitcoin; DogeCoin; Tether; Etherium; XRP 
+    Bitcoin; DogeCoin; Tether; Etherium; XRP 
 
 # Github Management
 
