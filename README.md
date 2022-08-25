@@ -15,3 +15,7 @@
  any questions or issues that could arise when commiting the files. Our communication as a group relies on using Slack as 
  a resource in oder to have on consise area where we can post and keep track of our progress. 
   
+
+# Technologies Used
+
+ We decided to utilize MongoDB as well a Jupyter Notebook; for our Machine Learning model we went with a Random Forest model.
