@@ -1,8 +1,5 @@
 # project_one
 
-
-# project_one
-
 # Purpose of Analysis:
 
 The purpose of this analysis is to see if we are able to predict the trends of the top 5 cryptocurrencies. We have 5 separate CSV files containing 5 years worth of performance data for Bitcoin; DogeCoin; Tether; Etherium; XRP. We created 5 separate DataFrames for each of the crypto currencies. The data for Etherium was used to test the initial machine learning model with the data sets that were available.
