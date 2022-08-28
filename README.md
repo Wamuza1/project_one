@@ -28,4 +28,4 @@ For this segment of the project Our communication as a group relies on using Sla
 
 # Database
 
-Mongodb used to store and manipulate data before imported to Jupyter Notebook.
+Mongodb is used to store and manipulate data.
