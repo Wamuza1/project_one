@@ -25,7 +25,20 @@ For this segment of the project Our communication as a group relies on using Sla
 - Jacyntha is responsible for working on machine learning model.
 - Saba is handling and retrieving the data, database and DataFrame.
 
-
 # Database
 
-Mongodb is used to store and manipulate data.
+### Cryptocurrency Analysis Data
+
+**Data Source: 
+
+-Yahoo Live Finance Data
+
+**ETL:
+
+- Data was called from " Yahoo Fianance Historic Live Data " by using yahoo finance API's.
+
+- Day-to-day pricing for the 5 currencies from 2017 to 2022.
+
+- Data was transformed into Json(JavaScript Object Notation) format.
+
+- Mongodb is used to store and manipulate the transformed data.
