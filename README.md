@@ -32,9 +32,9 @@ Our group chose to analzye 5 different cryptocurrencies with the goal of compari
 
 # Github Management and Team Members - Roles
 
-For this segment of the project Our communication as a group relies on using Slack.
+For the segments of the project Our communication as a group relied on using Slack.
 
-- Nick is in charge of maintaining and organizing the github.
+- Nick is in charge of maintaining and organizing the github/setting up visualizations.
 - Jacyntha is responsible for working on machine learning model.
 - Saba is handling and retrieving the data, database and DataFrame.
 
@@ -55,3 +55,9 @@ For this segment of the project Our communication as a group relies on using Sla
 - Data was transformed into Json(JavaScript Object Notation) format.
 
 - Mongodb is used to store and manipulate the transformed data.
+
+#Links for Dashboard and Presentation
+
+Google Slides: https://docs.google.com/presentation/d/1X21RFrBmVRU2Po7hm_XUvINcNn611udTBsQVcqq-fss/edit?usp=sharing
+
+Tableau Public: https://public.tableau.com/views/FinalProject_16620830850500/CryptoAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
