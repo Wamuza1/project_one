@@ -56,7 +56,7 @@ For the segments of the project Our communication as a group relied on using Sla
 
 - Mongodb is used to store and manipulate the transformed data.
 
-#Links for Dashboard and Presentation
+# Links for Dashboard and Presentation
 
 Google Slides: https://docs.google.com/presentation/d/1X21RFrBmVRU2Po7hm_XUvINcNn611udTBsQVcqq-fss/edit?usp=sharing
 
